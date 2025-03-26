@@ -10,20 +10,18 @@ Evaluate marketing effectiveness – Are marketing efforts translating into conv
 Product & demographic analysis - Identify high-performing products and customer segments.
 # Letter from Marketing Manger and Customer experience manager
 # Marketing Challenges:
-
+![image](https://github.com/user-attachments/assets/e4ca4147-7078-4535-8722-0e9e66e127f1)
 High drop-off rates, low conversion, and ineffective marketing spend.
 
 Need for data-driven strategies to improve engagement and retarget potential buyers.
-![image](https://github.com/user-attachments/assets/e4ca4147-7078-4535-8722-0e9e66e127f1)
 
 # Customer Experience Concerns:
-
+![image](https://github.com/user-attachments/assets/1511edf6-6627-47f0-a279-dd15508c1031)
 Navigation issues and unstructured feedback leading to poor customer retention.
 
 Importance of sentiment analysis and personalized engagement to enhance satisfaction.
 
 Both departments seek actionable insights to refine marketing campaigns, improve product offerings, and enhance user experience.
-![image](https://github.com/user-attachments/assets/1511edf6-6627-47f0-a279-dd15508c1031)
 
 # Approach
 Customer Journey Analysis – Identifying drop-off points and engagement trends.
