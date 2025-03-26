@@ -11,12 +11,14 @@ Product & demographic analysis - Identify high-performing products and customer 
 # Letter from Marketing Manger and Customer experience manager
 # Marketing Challenges:
 ![image](https://github.com/user-attachments/assets/e4ca4147-7078-4535-8722-0e9e66e127f1)
+
 High drop-off rates, low conversion, and ineffective marketing spend.
 
 Need for data-driven strategies to improve engagement and retarget potential buyers.
 
 # Customer Experience Concerns:
 ![image](https://github.com/user-attachments/assets/1511edf6-6627-47f0-a279-dd15508c1031)
+
 Navigation issues and unstructured feedback leading to poor customer retention.
 
 Importance of sentiment analysis and personalized engagement to enhance satisfaction.
